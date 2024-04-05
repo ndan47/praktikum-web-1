@@ -31,6 +31,7 @@ mendefinisikan gambar
   </tr>
 </table>
 mendefinisikan tabel
+
 ![Screenshot 2024-04-05 193644](https://github.com/ndan47/praktikum-web-1/assets/164461477/51362fb9-adbc-4563-9d7a-9674fbd975ad)
 
 
