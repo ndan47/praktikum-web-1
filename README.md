@@ -8,7 +8,9 @@ Elemen HTML memberi label pada bagian konten seperti Home, Aboutme, Contactme,
 <title>menentukan judul untuk halaman HTML</title>(ditampilkan di bilah judul browser atau di tab halaman)
 <h1>Heading</h1>
 <p>Paragraf</p>
-Screenshot 2024-04-05 174354.png
+
+![Screenshot 2024-04-05 174354](https://github.com/ndan47/praktikum-web-1/assets/164461477/c90fb6f0-9150-4eef-b5a2-da3aae3c685d)
+
 mendefinisikan judul besar
 mendefinisikan paragraf
 
