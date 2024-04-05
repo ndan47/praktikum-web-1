@@ -1,4 +1,4 @@
-Kepanjangan dari HTML adalah Hyper Text Markup Language yang merupakan sebuah fondasi dasar dalam pembuataan halaman WEB 
+1. Kepanjangan dari HTML adalah Hyper Text Markup Language yang merupakan sebuah fondasi dasar dalam pembuataan halaman WEB 
 HTML menjelaskan struktur halaman Web
 HTML terdiri dari serangkaian elemen
 Elemen HTML berkomunikasi dengan browser cara menampilkan konten
@@ -46,7 +46,7 @@ Tag digunakan untuk menyematkan gambar di halaman HTML. Atribut sr cmenentukan j
 Tag juga harus berisi atribut widthand height, yang menentukan lebar dan tinggi gambar:
 Atribut yang diperlukan alt untuk  tag menentukan teks alternatif untuk suatu gambar, jika gambar karena alasan tertentu tidak dapat ditampilkan. Hal ini dapat disebabkan oleh koneksi yang lambat, atau kesalahan pada srcatribut, atau jika pengguna menggunakan pembaca layar.
 
-Kepanjangan dari CSS adalah (Cascading Style Sheets) : CSS diibaratkan mendekorasi sebuah fondasi basic atau bahasa yang digunakan untuk menata gaya dokumen HTML.
+2. Kepanjangan dari CSS adalah (Cascading Style Sheets) : CSS diibaratkan mendekorasi sebuah fondasi basic atau bahasa yang digunakan untuk menata gaya dokumen HTML.
 Syntax contoh : h1 {color:blue; font-size:12px;}
 
 h1 = Selector Deklarasi
@@ -54,15 +54,18 @@ color: = property
 blue; = value
 font-size: = property
 12px; = value
-Java Script adalah bahasa pemrograman paling populer di dunia, Java Script digunakan untuk membuat halaman web inetraktif dan dinamis. Properti dalam JS
 
-innerHtml = mengakses tag html
-innerText = mengubah text dalam tag
-textContent = mengubah text dalam tag html
-document.getElementById = untuk id
-document.getElementsByTagName; = untuk tag
-document.getElementsByClassName; = untuk kelas
-document.querySelector('#title'); = untuk id
-document.querySelector('title'); = untuk kelas
-document.querySelector('div'); = untuk id
-console.log("Hello World"); = menampilkan text
+
+3. Kepanjangan dari JS adalah JavaScript merupakan salah satu bahasa pemrograman, dan diibaratkan dengan adanya JavaScript suatu WEBSITE itu hidup atau di ibaratkan suatu bentuk rumah terdapat pintu maupun jendela agar bisa diakses
+   Pro[erti-properti dalam JavaScript
+    
+    innerText = mengubah text dalam tag
+    textContent = mengubah text dalam tag html
+    document.getElementById = untuk id
+    document.getElementsByTagName; = untuk tag
+    document.getElementsByClassName; = untuk kelas
+    document.querySelector('#title'); = untuk id
+    document.querySelector('title'); = untuk kelas
+    document.querySelector('div'); = untuk id
+    console.log("Hello World"); = menampilkan tex
+    innerHtml = mengakses tag html
