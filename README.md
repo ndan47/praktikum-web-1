@@ -35,11 +35,6 @@ mendefinisikan tabel
 ![Screenshot 2024-04-05 193644](https://github.com/ndan47/praktikum-web-1/assets/164461477/51362fb9-adbc-4563-9d7a-9674fbd975ad)
 
 
-
-
-
-
-
 Atribut HTML
 Tag mendefinisikan hyperlink. Atribut hrefmenentukan URL halaman yang dituju.
 Tag digunakan untuk menyematkan gambar di halaman HTML. Atribut sr cmenentukan jalur ke gambar yang akan ditampilkan.
@@ -47,8 +42,12 @@ Tag juga harus berisi atribut widthand height, yang menentukan lebar dan tinggi 
 Atribut yang diperlukan alt untuk  tag menentukan teks alternatif untuk suatu gambar, jika gambar karena alasan tertentu tidak dapat ditampilkan. Hal ini dapat disebabkan oleh koneksi yang lambat, atau kesalahan pada srcatribut, atau jika pengguna menggunakan pembaca layar.
 
 2. Kepanjangan dari CSS adalah (Cascading Style Sheets) : CSS diibaratkan mendekorasi sebuah fondasi basic atau bahasa yang digunakan untuk menata gaya dokumen HTML.
-Syntax contoh : h1 {color:blue; font-size:12px;}
+Boxmodel.html : Sebuah kotak yang membungkus setiap elemen HTML. Terdiri dari: konten, padding, border dan margin. Konten itu isi dari box, padding:jarak area konten, border:garis yang mengelilingi konten, margin:jarak luar konten. width itu menentukan ukuran lebar, height itu menentukan ukuran tinggi
+Outline.html : Garis gambar di sekeliling elemen, di luar batas, untuk membuat elemen "menonjol". Properti outline-style menentukan gaya kerangka, dan dapat memiliki salah satu nilai berikut: dotted- Mendefinisikan garis putus-putus dashed- Mendefinisikan garis putus-putus solid- Mendefinisikan garis besar yang solid Didalam outline kita juga dapat menentukan width(lebar),color(warna)
+tabel.html : Dapat menentukan font, border, padding, text-align, color, dll. Agar saat kursor mengarahkan ke arah salah satu baris bisa berubah warna kalian bisa menggunakan hover di tr
+text.html : Properti ini text-decoration-linedigunakan untuk menambahkan garis dekorasi pada teks. Properti color dapat menambahkan warna pada teks. Combinator CSS merupakan sesuatu yang menjelaskan hubungan antar penyeleksi. salah satu combinator : The general sibling selector memilih semua elemen yang merupakan saudara berikutnya dari elemen tertentu.
 
+Syntax contoh : h1 {color:blue; font-size:12px;}
 h1 = Selector Deklarasi
 color: = property
 blue; = value
