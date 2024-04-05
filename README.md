@@ -1,6 +1,8 @@
-HTML (Hyper Text Markup Language): HTML adalah bahasa markup standar untuk membuat halaman Web Elemen dalam HTML:
-
-< tagname > Konten ada di sini... < /tagname >
+Kepanjangan dari HTML adalah Hyper Text Markup Language yang merupakan sebuah fondasi dasar dalam pembuataan halaman WEB 
+HTML menjelaskan struktur halaman Web
+HTML terdiri dari serangkaian elemen
+Elemen HTML berkomunikasi dengan browser cara menampilkan konten
+Elemen HTML memberi label pada bagian konten seperti Home, Aboutme, Contactme,
 
 adalah elemen akar dari halaman HTML
 berisi informasi meta tentang halaman HTML
