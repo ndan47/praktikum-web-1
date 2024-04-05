@@ -4,9 +4,10 @@ HTML terdiri dari serangkaian elemen
 Elemen HTML berkomunikasi dengan browser cara menampilkan konten
 Elemen HTML memberi label pada bagian konten seperti Home, Aboutme, Contactme,
 
-adalah elemen akar dari halaman HTML
-berisi informasi meta tentang halaman HTML
+
 <title>menentukan judul untuk halaman HTML (ditampilkan di bilah judul browser atau di tab halaman)
+![Screenshot 2024-04-05 174354](https://github.com/ndan47/praktikum-web-1/assets/164461477/58b52200-0676-4487-95d6-f96e53754520)
+
 mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.
 mendefinisikan judul besar
 mendefinisikan paragraf
