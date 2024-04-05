@@ -5,7 +5,9 @@ Elemen HTML berkomunikasi dengan browser cara menampilkan konten
 Elemen HTML memberi label pada bagian konten seperti Home, Aboutme, Contactme,
 
 
-<title>menentukan judul untuk halaman HTML (ditampilkan di bilah judul browser atau di tab halaman)
+<title>menentukan judul untuk halaman HTML</title>(ditampilkan di bilah judul browser atau di tab halaman)
+<h1>Heading</h1>
+<p>Paragraf</p>
 
 
 mendefinisikan badan dokumen, dan merupakan wadah untuk semua konten yang terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll.
