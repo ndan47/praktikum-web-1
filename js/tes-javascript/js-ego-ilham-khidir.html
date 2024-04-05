@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{
+            font-family: Arial, Helvetica, sans-serif ;
+        }
+        table {
+            width: 20%;
+            border-collapse: collapse;
+        }
+        table,
+        th, tr, td {
+            padding: 8px;
+            border: 1px solid;
+            font-family: Arial, Helvetica, sans-serif ;
+        }
+        tr:nth-child(even) {
+            background-color: ;
+        }
+        table th {
+            background-color: rgb(211, 211, 211) ;
+            text-align: left;
+        }
+        tr:nth-child(even) {
+            background-color: rgb(211, 211, 211) ;
+        }
+        table tr :hover{
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <center>
+    <h1>JavaScript Arithmetic</h1>
+    <table>
+        <tr>
+            <th>Variabel</th>
+            <th>Nilai</th>
+        </tr>
+        <tr>
+            <td>a</td>
+            <td id="satu">5</td>
+        </tr>
+        <tr>
+            <td>b</td>
+            <td id="dua">2</td>
+        </tr>
+        <tr>
+            <td>c</td>
+            <td id="tiga">1</td>
+        </tr>
+        <tr>
+            <td>Hasil</td>
+            <td id="hasil" onmouseover="tampilHasil()" onmouseout="tampilKosong()"></td>
+        </tr>
+    </table>
+    </center>
+    <script>
+        function Hitung(a, b, c) {
+            return a + b - c;
+        }
+
+        function tampilHasil() {
+            let a = parseInt(document.getElementById("satu").innerText);
+            let b = parseInt(document.getElementById("dua").innerText);
+            let c = parseInt(document.getElementById("tiga").innerText);
+            document.getElementById("hasil").innerHTML = Hitung(a, b, c);
+        }
+        function tampilKosong() {
+            document.getElementById("hasil").innerHTML = "";
+        }
+
+    </script>
+</body>
+</html>
